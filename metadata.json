@@ -1,0 +1,6 @@
+{
+  "name": "Junaid AI Assistant",
+  "description": "Smart, multilingual AI Assistant powered by Google Gemini with voice chat, writing tools, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
